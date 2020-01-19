@@ -1,0 +1,9 @@
+body {
+    background-color: white;
+}
+
+
+.table_with_borders {
+         border: 1px solid black;
+}
+    
